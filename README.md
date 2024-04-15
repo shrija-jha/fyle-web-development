@@ -15,13 +15,40 @@ People love working at Fyle. Check out our Glassdoor reviews [here](https://www
 
 Design a website that allows for tax calculation based on a users input.
 
+## 
+## For Further Info
+https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c
+
+## Host Server
+https://shrija-jha.github.io/fyle-web-development-Shrija-Jha/
+
 ## Test Cases
-Calculation Accuracy
 
-Input Validation
+#### 1. Tax Calculator
+![taxcalc](https://github.com/shrija-jha/fyle-web-development-Shrija-Jha/assets/153726869/bd76579d-5b4f-4a89-b28a-da84451d51fc)
 
-User Experience
 
-![taxcalc](https://github.com/shrija-jha/fyle-web-development/assets/153726869/8b60546d-5aa9-4626-81b5-d2a013f31e7e)
-![error](https://github.com/shrija-jha/fyle-web-development/assets/153726869/d7795fcb-bab4-4390-b3d7-21a549cded5b)
-![deduction](https://github.com/shrija-jha/fyle-web-development/assets/153726869/40ff8070-ff7b-47a2-b43f-7e72ad53d28b)
+#### 2. After calculating a tax
+![deduction](https://github.com/shrija-jha/fyle-web-development-Shrija-Jha/assets/153726869/1819a654-38b2-4255-a10b-e6b836ce92a0)
+
+
+#### 3. Shows an error if you fill the alphabet
+![error](https://github.com/shrija-jha/fyle-web-development-Shrija-Jha/assets/153726869/3090693c-0c94-4179-821d-dede79116863)
+
+
+#### 4. Info Icons
+##### Info Icon Of Gross Annual Income
+![gross income](https://github.com/shrija-jha/fyle-web-development-Shrija-Jha/assets/153726869/38e3609b-e22d-4e02-89e8-9772ac19b269)
+
+
+##### Info Icon Of Extra Income
+![extra](https://github.com/shrija-jha/fyle-web-development-Shrija-Jha/assets/153726869/2087173e-ce9e-4e86-805c-7935f254114a)
+
+
+##### Info Icon Of Age Group
+![age](https://github.com/shrija-jha/fyle-web-development-Shrija-Jha/assets/153726869/9c13913d-9bce-460a-b0eb-38137d95ccac)
+
+
+##### Info Icon Of Applicable Deductions
+![tooltip  deduc](https://github.com/shrija-jha/fyle-web-development-Shrija-Jha/assets/153726869/f450d504-e32b-46ee-ae3e-0d0fdd81540a)
+
