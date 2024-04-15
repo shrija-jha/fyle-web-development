@@ -17,8 +17,11 @@ Design a website that allows for tax calculation based on a users input.
 
 ## Test Cases
 Calculation Accuracy
+
 Input Validation
+
 User Experience
+
 ![taxcalc](https://github.com/shrija-jha/fyle-web-development/assets/153726869/8b60546d-5aa9-4626-81b5-d2a013f31e7e)
 ![error](https://github.com/shrija-jha/fyle-web-development/assets/153726869/d7795fcb-bab4-4390-b3d7-21a549cded5b)
 ![deduction](https://github.com/shrija-jha/fyle-web-development/assets/153726869/40ff8070-ff7b-47a2-b43f-7e72ad53d28b)
